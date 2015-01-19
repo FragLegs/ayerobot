@@ -5,9 +5,9 @@ relative_permalinks: true
 # Setup
 title:            Aye, Robot
 tagline:          discere ex machina
-url:              
+url:
 paginate:         1
-baseurl:          http://fraglegs.github.io/ayerobot/
+baseurl:          /ayerobot/
 author:
   name:           Shayne Miel
   url:            https://twitter.com/
