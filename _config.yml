@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Aye, Robot
-tagline:          Machine Learnings
+tagline:          discere ex machina
 url:              
 paginate:         1
 baseurl:          http://fraglegs.github.io/ayerobot/
