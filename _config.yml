@@ -5,9 +5,9 @@ relative_permalinks: true
 # Setup
 title:            Aye, Robot
 tagline:          Machine Learnings
-url:              http://fraglegs.github.io/poole/
+url:              
 paginate:         1
-baseurl:          /
+baseurl:          http://fraglegs.github.io/ayerobot/
 author:
   name:           Shayne Miel
   url:            https://twitter.com/
@@ -16,4 +16,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/FragLegs/poole
+  repo:           https://github.com/FragLegs/ayerobot
