@@ -136,3 +136,12 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+
+
+## Equations
+$$\frac{\partial P(\tilde n,t)}{\partial t} = - \underbrace{\frac{\partial \left( b(\tilde n)-d(\tilde n) \right)}{\partial \tilde n}}{A(\tilde n) } \frac{\partial}{\partial \tilde n} \tilde n P(\tilde n,t)+ \underbrace{\frac{b(\tilde n)+ d(\tilde n)}{2} }{B(\tilde n)/2} \frac{\partial^2}{\partial \tilde n^2} P(\tilde n) \label{forward}$$
+
+## Inline math
+Hi, $1 + 2 = 3$ is an equation!
+
+{% include mathjs %}
