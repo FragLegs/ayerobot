@@ -18,4 +18,4 @@ github:
   repo:           https://github.com/FragLegs/ayerobot
 
 # Code highlighting
-highlighter: pygments
+highlighter: rouge
